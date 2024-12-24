@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#J'ajoute les extensions que me demande l'exercice 
+.pdf
+.html
