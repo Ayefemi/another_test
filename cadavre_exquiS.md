@@ -1,0 +1,1 @@
+Première ligne sans ponctuation
