@@ -1,1 +1,1 @@
-Deuxième ligne sans ponctuationappen=TRUE
+Deuxième ligne sans ponctuation.
