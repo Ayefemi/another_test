@@ -1,0 +1,65 @@
+---
+title: "my_first_quarto_file"
+author: "Nnyda"
+format: html
+editor: source
+toc: false
+css: css/bootstrap.min.css
+---
+
+```{r}
+a <- 2
+a*2
+```
+
+![Photo de Profil de Danny](img/wakanda.png){.img-fluid .rounded-circle .start .col-md-3}
+
+# Bonjour Quarto
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## *Première partie*
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## **Deuxième Partie**
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## ***Troisième Partie***
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+# Bonsoir Quarto
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## *Première partie*
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## **Deuxième Partie**
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## ***Troisième Partie***
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+# Bonne nuit Quarto
+
+**Avez-vous envie de suivre Samuel ?** Clickez ici [Série Samuel](https://www.arte.tv/fr/videos/RC-024878/samuel/)
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## *Première partie*
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.z 'q()' pour quitter R.
+
+## **Deuxième Partie**
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
+
+## ***Troisième Partie***
+
+R version 4.4.2 (2024-10-31 ucrt) -- "Pile of Leaves" Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 R est un logiciel libre livré sans AUCUNE GARANTIE. Vous pouvez le redistribuer sous certaines conditions. Tapez 'license()' ou 'licence()' pour plus de détails. R est un projet collaboratif avec de nombreux contributeurs. Tapez 'contributors()' pour plus d'information et 'citation()' pour la façon de le citer dans les publications. Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide en ligne ou 'help.start()' pour obtenir l'aide au format HTML. Tapez 'q()' pour quitter R.
